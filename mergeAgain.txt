@@ -1,1 +1,1 @@
-100 <---- this number was orginally 100 pre merge
+1000 <---- this number was originally 100 pre merge
